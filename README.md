@@ -1,1 +1,7 @@
 # module4-React
+Link: https://jakubm1999.github.io/module4-React/
+<p>Hello, so in this project I wanted to do something simple just to get a grip on what React is. </p>
+
+<p>First what I did was that I found some random API of pokemon names and worked with that. But instaed of fetch I used another framwork that's called "Axios" wich simplyfies fetching API a little bit as you can see in the code. Then I needed to change the page with names by canceling currennt page and going to next page which then becomes current page. I did it by usting "cancel token" which comes with axios, I also did it for previous page so you can go back on this list. I also combined it with hooks like "useState and useEffect. Then to make it functional I created a components that contain buttons with these "nextPage" , "PrevPage" functions and the names it self, at the end I styled it by creating objects in components that contain styles which I can then ajust easily. I also did a loading screen so then you go through the list to fast you can see "Loading..." in the top left corner, reason for that was that if the user has a slow internet then he/she knows that it's working but it's loading, insted of showing just a balnk screen with no information.</p>
+
+<p>I learned alot by doing this project and most importantly I now have a basic understanding of what React is and how to use it, I just need more practice. Otherwise I'm confident that I have everything that there was in Knowledge and Skills. I know that the page is very basic but I hope you like it. :)</p>
